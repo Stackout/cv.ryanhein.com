@@ -164,7 +164,8 @@ skills:
           level: 100%
 
 experiences:
-  - role: "Lead Developer"
+  - experience:
+    role: "Lead Developer"
     time: '2004 - Current'
     company: 'Heimech Studios'
     details: "Detailed description of company."
