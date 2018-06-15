@@ -4,7 +4,7 @@
 
 sidebar:
     # Site Settings
-    title: Resume
+    title: "Ryan Hein's Resume"
     url: 'http://ryanhein.com'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
@@ -50,7 +50,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: ''
 
 
 studies: 
