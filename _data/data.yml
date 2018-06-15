@@ -55,7 +55,7 @@ career-profile:
 
 studies: 
     - education:
-      degree: AAc in Persian-Farsi
+      degree: AA in Persian-Farsi
       university: American Military University
       time: 2011 - 2012
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
@@ -88,17 +88,9 @@ projects:
         link: "https://www.hein.estate"
         tagline: "A website developed for the purpose of competing against Zillow.com and Redfin.com. Currently still under development."
       - project:
-        title: Tempo
+        title: Liberty Day Institute Classroom
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A beautifully crafted custom classroom and learning resource designed and developed with love for LiberyDay."
 
 
 publications:
@@ -173,4 +165,4 @@ skills:
           level: 100%
 
 footer: 
-    text: '&copy; Copyright 2018 by RyanHein.com'
+    text: '&copy; Copyright 2018 by <a href=https://ryanhein.com target="_blank">RyanHein.com</a>'
