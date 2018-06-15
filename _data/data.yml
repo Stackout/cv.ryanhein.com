@@ -6,7 +6,7 @@ sidebar:
     # Site Settings
     title: "Ryan Hein's Resume"
     url: 'http://ryanhein.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Ryan Hein
