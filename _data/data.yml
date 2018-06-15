@@ -111,6 +111,12 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
+experiences:
+  - role: test
+    time: '5 years'
+    company: 'Many years corporation'
+    details: "Lots of details here"
+
 
 skills:
     title: Skills &amp; Proficiency
