@@ -4,43 +4,43 @@
 
 sidebar:
     # Site Settings
-    title: My Resume
-    url: 'http://webjeda.com'
+    title: Resume
+    url: 'http://ryanhein.com'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
+    name: Ryan Hein
     tagline: Full Stack Developer
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: me@ryanhein.com
+    phone: 303-532-9265
+    website: hein.estate #do not add http://
+    linkedin: stackout
+    github: stackout
+    twitter: '@RyanMHein'
 
     languages:
         - language:
           idiom: English
           level: Native
         - language:
-          idiom: French
+          idiom: Persian
           level: Professional
         - language:
-          idiom: Spanish
+          idiom: German
           level: Professional
         
     interests:
         - interest:
-          item: Climbing
+          item: Scuba Diving
           link:
         - interest:
-          item: Snowboarding
+          item: Programming
           link:
         - interest:
-          item: Cooking
+          item: Spending Time with Family
           link:
 
         
