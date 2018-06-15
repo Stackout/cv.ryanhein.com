@@ -80,13 +80,13 @@ projects:
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: Proyard.com
+        link: "https://proyard.com"
+        tagline: "Backend enterprise resource development project for a Parker, Colorado based landscaping company."
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        title: Hein Group at Your Castle Realty
+        link: "https://www.hein.estate"
+        tagline: "A website developed for the purpose of competing against Zillow.com and Redfin.com. Currently still under development."
       - project:
         title: Tempo
         link: "#"
