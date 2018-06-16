@@ -181,7 +181,7 @@ experiences:
     role: "Full Stack Developer"
     time: 'May 2004 - Current'
     company: 'Heimech Studios'
-    details: "Developed PHP applications from scratch. Used Codeigniter, and Laravel to deploy applications for learning softwater, and enterprise resource management software. Managed and maintined LAMP and LEMP stack software deployed on dedicated, AWS, and Google Cloud servers. "
+    details: "Developed PHP applications from scratch. Used Codeigniter, and Laravel to deploy applications for learning softwater, and enterprise resource management software. Managed and maintined LAMP and LEMP stack software deployed on dedicated, AWS, and Google Cloud servers."
 
   - experience:
     role: "Associate Broker"
@@ -189,7 +189,7 @@ experiences:
     company: 'Your Castle Realty'
     details: "Sales in high-end residential and commercial real estate. Developed professional and cultivated new client relationships through networking groups, open houses, cold calling."
 
-    - experience:
+  - experience:
     role: "Night Manager and Service Representitive"
     time: 'Nov 2017 - Mar 2018'
     company: '24 Hour Fitness'
