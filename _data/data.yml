@@ -50,23 +50,20 @@ career-profile:
 
 
 studies: 
-    - education:
-      degree: AA in Persian-Farsi
-      university: American Military University
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+  - education:
+    degree: AA in Persian-Farsi
+    university: American Military University
+    time: Nov 2008 - Nov 2009
+    details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+    elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+    magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    pellentesque eu, pretium quis, sem."
 
-    - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+  - education:
+    degree: Military Intelligence Certification
+    university: Navy-Marine Corps Intelligence Trianing Center (NMITC)
+    time: Jun 2008 - Sep 2008
+    details: "Studied military intelligence"
 
 
 projects:
@@ -162,22 +159,27 @@ skills:
 experiences:
   - experience:
     role: "Full Stack Developer"
-    time: '2004 - Current'
+    time: 'May 2004 - Current'
     company: 'Heimech Studios'
     details: "Developed PHP applications from scratch."
 
   - experience:
     role: "Intelligence Analyst"
-    time: '2008 - 2013'
+    time: 'Feb 2008 - Feb 2013'
     company: 'United States Marine Corps'
     details: "Developed leaders, and successfully trained individuals for intelligence writing, briefing, and speaking in front of high level officers including the President of the United States. Answered phones for high-ranking officers, and executed typical office duties with efficiency."
 
   - experience:
     role: "Foreign Military Intelligence Instructor"
-    time: '2011 - 2012'
+    time: 'Jan 2011 - Jan 2012'
     company: 'United States Marine Corps'
     details: "Developed host-nation intelligence capibilities. Taught military intelligence for Afghan National Secruity Forces in their native language (Dari)."
-
+ 
+  - experience:
+    role: "Marine Combat Trianing"
+    time: 'May 2008 - June 2008'
+    company: 'United States Marine Corps'
+    details: ""
 
 footer: 
     text: '&copy; Copyright 2018 by <a href=https://ryanhein.com target="_blank">RyanHein.com</a>'
