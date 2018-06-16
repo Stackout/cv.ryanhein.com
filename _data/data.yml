@@ -171,7 +171,7 @@ experiences:
     role: "Full Stack Developer"
     time: 'May 2004 - Current'
     company: 'Heimech Studios'
-    details: "Developed PHP applications from scratch."
+    details: "Developed PHP applications from scratch. Used Codeigniter, and Laravel to deploy applications for learning softwater, and enterprise resource management software. Managed and maintined LAMP and LEMP stack software deployed on dedicated, AWS, and Google Cloud servers. "
 
   - experience:
     role: "Associate Broker"
@@ -183,7 +183,7 @@ experiences:
     role: "Intelligence Analyst"
     time: 'Feb 2008 - Feb 2013'
     company: 'United States Marine Corps'
-    details: "Developed leaders, and successfully trained individuals for intelligence writing, briefing, and speaking in front of high level officers including the President of the United States. Answered phones for high-ranking officers, and executed typical office duties with efficiency."
+    details: "Developed leaders, and successfully trained individuals for intelligence writing, briefing, and speaking in front of high level officers including the President of the United States. Answered phones for high-ranking officers, and executed typical office duties with efficiency. Developed leaders and ran a team of 20 intel marines by the rank of Corporal (E4)."
 
   - experience:
     role: "Foreign Military Intelligence Instructor"
