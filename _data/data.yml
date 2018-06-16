@@ -51,13 +51,10 @@ career-profile:
 
 studies: 
   - education:
-    degree: AA in Persian-Farsi
+    degree: AA in General Studies
     university: American Military University
     time: Nov 2008 - Nov 2009
-    details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-    elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-    magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-    pellentesque eu, pretium quis, sem."
+    details: "Degree included many credits in general studies as well as the Perisan-Farsi Langauge and middle eastern studies. "
 
   - education:
     degree: Military Intelligence Certification
@@ -65,6 +62,11 @@ studies:
     time: Jun 2008 - Sep 2008
     details: "Studied military intelligence"
 
+  - education:
+    degree: Persian-Farsi Certification
+    university: Navy-Marine Corps Intelligence Trianing Center (NMITC)
+    time: Jun 2008 - Sep 2008
+    details: "Studied Persian-Farsi, cultural and middle eastern culture."
 
 projects:
     title: Projects
@@ -86,7 +88,7 @@ projects:
         tagline: "A beautifully crafted custom classroom and learning resource designed and developed with love for LiberyDay."
       - project:
         title: Laravel Payment Gateway
-        link: "https://github.com/Stackout/PaymentGateways"
+        link: "https://github.com/Stackout/Payment-Gateways"
         tagline: "A library to help rapidly create eCommerce solutions with Stripe, and PayPal Pro."
 
 publications:
