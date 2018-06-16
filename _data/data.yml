@@ -103,7 +103,7 @@ projects:
         tagline: "A library to help rapidly create eCommerce solutions with Stripe, and PayPal Pro."
       - project:
         title: Dragonblade Laravel ERM System
-        link: "#"
+        link: "https://gitlab.dragonblade.io/dragonblade"
         tagline: "An entire enterprise resource management system designed and develoepd for Dragonblade Technologies, Inc."
 
 publications:
