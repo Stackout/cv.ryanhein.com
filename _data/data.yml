@@ -82,9 +82,12 @@ projects:
         tagline: "A website developed for the purpose of competing against Zillow.com and Redfin.com. Currently still under development."
       - project:
         title: Liberty Day Institute Classroom
-        link: "#"
+        link: "https://classroom.libertyday.org"
         tagline: "A beautifully crafted custom classroom and learning resource designed and developed with love for LiberyDay."
-
+      - project:
+        title: Laravel Payment Gateway
+        link: "https://github.com/Stackout/PaymentGateways"
+        tagline: "A library to help rapidly create eCommerce solutions with Stripe, and PayPal Pro."
 
 publications:
     title: Publications
