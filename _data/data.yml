@@ -43,10 +43,6 @@ sidebar:
           item: Spending Time with Family
           link:
 
-        
-
-
-
 
 career-profile: 
     title: Career Profile
@@ -148,7 +144,7 @@ skills:
           name: Ruby on Rails
           level: 85%
         - skill:
-          name: Sketch & Photoshop
+          name: Photoshop & Illustrator
           level: 80%
         - skill:
           name: 3DS Max
@@ -165,10 +161,22 @@ skills:
 
 experiences:
   - experience:
-    role: "Lead Developer"
+    role: "Full Stack Developer"
     time: '2004 - Current'
     company: 'Heimech Studios'
-    details: "Detailed description of company."
+    details: "Developed PHP applications from scratch."
+
+  - experience:
+    role: "Intelligence Analyst"
+    time: '2008 - 2013'
+    company: 'United States Marine Corps'
+    details: "Developed leaders, and successfully trained individuals for intelligence writing, briefing, and speaking in front of high level officers including the President of the United States. Answered phones for high-ranking officers, and executed typical office duties with efficiency."
+
+    - experience:
+    role: "Foreign Military Intelligence Instructor"
+    time: '2011 - 2012'
+    company: 'United States Marine Corps'
+    details: "Developed host-nation intelligence capibilities. Taught military intelligence for Afghan National Secruity Forces in their native language (Dari)."
 
 
 footer: 
