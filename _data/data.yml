@@ -60,6 +60,12 @@ studies:
     university: American Military University
     time: Nov 2008 - Nov 2009
     details: "Degree included many credits in general studies as well as the Perisan-Farsi Langauge and middle eastern studies. "
+    
+  - education:
+    degree: Corporal's Course
+    university: Non-comissioned Officer School
+    time: Oct 2010 - Nov 2010
+    details: "Developed leadership skills"
 
   - education:
     degree: Military Intelligence Certification
@@ -198,10 +204,10 @@ experiences:
     details: "Developed host-nation intelligence capibilities. Taught military intelligence for Afghan National Secruity Forces in their native language (Dari)."
  
   - experience:
-    role: "Marine Combat Trianing"
+    role: "United States Marine Corps"
     time: 'May 2008 - June 2008'
     company: 'United States Marine Corps'
-    details: ""
+    details: "Achieved the rank of Sergeant (E-5) by year 5 in the Marine Corps. Consistently passed the Phyiscal Fitness Test."
 
 footer: 
     text: '&copy; Copyright 2018 by <a href=https://ryanhein.com target="_blank">RyanHein.com</a>'
