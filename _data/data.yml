@@ -15,7 +15,7 @@ sidebar:
     
     # Sidebar links
     email: me@ryanhein.com
-    phone: 303-532-9265
+    phone: (303) 532-9265
     website: hein.estate #do not add http://
     linkedin: stackout
     github: stackout
@@ -42,7 +42,12 @@ sidebar:
         - interest:
           item: Spending Time with Family
           link:
-
+        - interest:
+          item: Public Speaking
+          link:
+        - interest:
+          item: Business
+          link:
 
 career-profile: 
     title: Career Profile
@@ -167,6 +172,12 @@ experiences:
     time: 'May 2004 - Current'
     company: 'Heimech Studios'
     details: "Developed PHP applications from scratch."
+
+  - experience:
+    role: "Associate Broker"
+    time: 'Oct 2016 - Current'
+    company: 'Your Castle Realty'
+    details: "Sales in high-end residential real estate."
 
   - experience:
     role: "Intelligence Analyst"
