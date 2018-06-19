@@ -172,7 +172,7 @@ skills:
           name: Docker & Vagrant
           level: 80%
         - skill:
-          name: Git & Svn
+          name: Git & SVN
           level: 100%
 
 experiences:
