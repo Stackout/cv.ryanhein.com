@@ -81,8 +81,7 @@ studies:
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "Here is a list of some of the projects I have worked on. Most of these projects were created useiing Laravel and Codeigniter."
     
     projects:
       - project:
