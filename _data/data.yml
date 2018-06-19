@@ -222,16 +222,18 @@ experiences:
     details: >
       Developed leaders, and successfully trained individuals for intelligence writing, briefing, and speaking in front of high level officers including the President of the United States. Answered phones for high-ranking officers, and executed typical office duties with efficiency. Cultivated new relationships with officers and ran a team of 20 intel marines by the rank of Corporal (E4).
       With persistent daily time shortages, was responsible for editing, assembling and delivering over 1,200 read boards throughout my deployment for key leadership, which was vital to military commanders' decisions for the battle space.
-      <li>With persistent time constraints and pressure, I assisted the watch floor in a wide array of tasks to include editing and revising intelligence articles and summaries, which contributed to the flow of intelligence from the lower to higher-level echelons.</li>
-      <li>Keep records of materials filed or removed, using logbooks or computers.</li>
-      <li>Add new material to file records or create new records as necessary.</li>
-      <li>Perform general office duties such as typing, operating office machines, and sorting mail.</li>
-      <li>Track materials removed from files to ensure that borrowed files are returned.</li>
-      <li>Sort or classify information according to guidelines, such as content, purpose, user criteria, or chronological, alphabetical, or numerical order.</li>
-      <li>Find and retrieve information from files in response to requests from authorized users.</li>
-      <li>Scan or read incoming materials to determine how and where they should be classified or filed.</li>
-      <li>Place materials into storage receptacles, such as file cabinets, boxes, bins, or drawers, according to classification and identification information.</li>
-      <li>Assign and record or stamp identification numbers or codes to index materials for filing.</li>
+      <ul>
+        <li>With persistent time constraints and pressure, I assisted the watch floor in a wide array of tasks to include editing and revising intelligence articles and summaries, which contributed to the flow of intelligence from the lower to higher-level echelons.</li>
+        <li>Keep records of materials filed or removed, using logbooks or computers.</li>
+        <li>Add new material to file records or create new records as necessary.</li>
+        <li>Perform general office duties such as typing, operating office machines, and sorting mail.</li>
+        <li>Track materials removed from files to ensure that borrowed files are returned.</li>
+        <li>Sort or classify information according to guidelines, such as content, purpose, user criteria, or chronological, alphabetical, or numerical order.</li>
+        <li>Find and retrieve information from files in response to requests from authorized users.</li>
+        <li>Scan or read incoming materials to determine how and where they should be classified or filed.</li>
+        <li>Place materials into storage receptacles, such as file cabinets, boxes, bins, or drawers, according to classification and identification information.</li>
+        <li>Assign and record or stamp identification numbers or codes to index materials for filing.</li>
+      </ul>
 
   - experience:
     role: "Foreign Military Intelligence Instructor"
@@ -239,17 +241,19 @@ experiences:
     company: 'United States Marine Corps'
     details: >
       In the presence of cultural differences and language barriers, was able to develop an intricate scenario to teach Afghan soldiers rudimentary intelligence and teamwork skills.
-      <li>Without minimal guidance, was able to train over 80 Afghan soldiers who could perform fundamental intelligence and teamwork skills following the completion of my courses.</li>
-      <li>Recognized for outstanding performance in developing Afghan Intelligence for the Afghan National Army.</li>
-      <li>Without minimal guidance, was able to train over 80 Afghan soldiers who could perform fundamental intelligence and teamwork skills following the completion of my courses.</li>
-      <li>Recognized for outstanding performance in developing Afghan Intelligence for the Afghan National Army.</li>
-      <li>Follow ethical codes that protect the confidentiality of information.</li>
-      <li>Identify and resolve conflicts related to the meanings of words, concepts, practices, or behaviors.</li>
-      <li>Translate messages simultaneously or consecutively into specified languages, orally or by using hand signs, maintaining message content, context, and style as much as possible.</li>
-      <li>Check translations of technical terms and terminology to ensure that they are accurate and remain consistent throughout translation revisions.</li>
-      <li>Read written materials, such as legal documents, scientific works, or news reports, and rewrite material into specified languages.</li>
-      <li>Refer to reference materials, such as dictionaries, lexicons, encyclopedias, and computerized terminology banks, as needed to ensure translation accuracy.</li>
-      <li>Adapt translations to students' cognitive and grade levels, collaborating with educational team members as necessary. </li>
+      <ul>
+        <li>Without minimal guidance, was able to train over 80 Afghan soldiers who could perform fundamental intelligence and teamwork skills following the completion of my courses.</li>
+        <li>Recognized for outstanding performance in developing Afghan Intelligence for the Afghan National Army.</li>
+        <li>Without minimal guidance, was able to train over 80 Afghan soldiers who could perform fundamental intelligence and teamwork skills following the completion of my courses.</li>
+        <li>Recognized for outstanding performance in developing Afghan Intelligence for the Afghan National Army.</li>
+        <li>Follow ethical codes that protect the confidentiality of information.</li>
+        <li>Identify and resolve conflicts related to the meanings of words, concepts, practices, or behaviors.</li>
+        <li>Translate messages simultaneously or consecutively into specified languages, orally or by using hand signs, maintaining message content, context, and style as much as possible.</li>
+        <li>Check translations of technical terms and terminology to ensure that they are accurate and remain consistent throughout translation revisions.</li>
+        <li>Read written materials, such as legal documents, scientific works, or news reports, and rewrite material into specified languages.</li>
+        <li>Refer to reference materials, such as dictionaries, lexicons, encyclopedias, and computerized terminology banks, as needed to ensure translation accuracy.</li>
+        <li>Adapt translations to students' cognitive and grade levels, collaborating with educational team members as necessary. </li>
+      </ul>
 
   - experience:
     role: "Intelligence and Targeting Analyst"
