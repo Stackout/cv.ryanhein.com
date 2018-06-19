@@ -59,7 +59,7 @@ studies:
     degree: AA in General Studies
     university: American Military University
     time: Nov 2008 - Nov 2009
-    details: "Degree included many credits in general studies as well as the Perisan-Farsi Langauge and middle eastern studies. "
+    details: "Degree included 100+ credits in general studies as well as the Perisan-Farsi Langauge and middle eastern studies. "
     
   - education:
     degree: Corporal's Course
@@ -180,7 +180,12 @@ experiences:
     role: "Full Stack Developer"
     time: 'May 2004 - Current'
     company: 'Heimech Studios'
-    details: "Developed PHP applications from scratch. Used Codeigniter, and Laravel to deploy applications for learning software, and enterprise resource management software. Managed and maintained LAMP and LEMP stack software deployed on dedicated, AWS, and Google Cloud servers."
+    details: >
+    <ul>
+    <li>Developed PHP applications from scratch. Used Codeigniter, and Laravel to deploy applications for learning software, and enterprise resource management software.</li>
+    <li>Managed and maintained LAMP and LEMP stack software deployed on dedicated, AWS, and Google Cloud servers.</li>
+    <li></li>
+    </ul>
 
   - experience:
     role: "Associate Broker"
