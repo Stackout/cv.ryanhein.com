@@ -180,7 +180,7 @@ experiences:
     role: "Full Stack Developer"
     time: 'May 2004 - Current'
     company: 'Heimech Studios'
-    details: "Developed PHP applications from scratch. Used Codeigniter, and Laravel to deploy applications for learning softwater, and enterprise resource management software. Managed and maintined LAMP and LEMP stack software deployed on dedicated, AWS, and Google Cloud servers."
+    details: "Developed PHP applications from scratch. Used Codeigniter, and Laravel to deploy applications for learning software, and enterprise resource management software. Managed and maintined LAMP and LEMP stack software deployed on dedicated, AWS, and Google Cloud servers."
 
   - experience:
     role: "Associate Broker"
