@@ -211,6 +211,8 @@ experiences:
         <li>Created client relationships to increase the gross sales for the company.</li>
         <li>Served as backend lead developer on a creative content team.</li>
         <li>Troubleshooted issues affecting production, stage, and development environments as requested.</li>
+        <li>Used Persian-Farsi to communicate with future Persian Clients.</li>
+        <li>Used German to communicate with future German Clients.</li>
       </ul>
 
   - experience:
@@ -220,10 +222,14 @@ experiences:
     details: >      
       <ul>
         <li>Builds scaleable applications using Java.</li>
+        <li>Builds scaleable applications using C#.</li>
+        <li>Builds scaleable applications using C++.</li>
+        <li>Builds scaleable applications using C.</li>
         <li>Created multiple server endpoints in Java, and C++ for video games.</li>
         <li>Established the ability to analyze business requirements for clients.</li>
         <li>Promoting collaboration through activities such as design reviews, and software/programming mentorship.</li>
-        <li>Created a video game teaching children about the Constitution of the United States.</li>
+        <li>Created a video game with Unity3D teaching children about the Constitution of the United States.</li>
+        <li>Created video games with Unity3D.</li>
       </ul>
 
   - experience:
