@@ -211,8 +211,9 @@ experiences:
         <li>Created client relationships to increase the gross sales for the company.</li>
         <li>Served as backend lead developer on a creative content team.</li>
         <li>Troubleshooted issues affecting production, stage, and development environments as requested.</li>
-        <li>Used Persian-Farsi to communicate with future Persian Clients.</li>
-        <li>Used German to communicate with future German Clients.</li>
+        <li>MYSQL, MongoDB, CouchDB, &  Database Architecture and Administration.</li>
+        <li>Fluently speaking Persian-Farsi to communicate with future clients.</li>
+        <li>Fluently speaking German to communicate with future clients.</li>
       </ul>
 
   - experience:
@@ -236,7 +237,16 @@ experiences:
     role: "Associate Broker"
     time: 'Oct 2016 - Current'
     company: 'Your Castle Realty'
-    details: "Sales in high-end residential and commercial real estate. Developed professional and cultivated new client relationships through networking groups, open houses, cold calling."
+    details: >
+      Sales in high-end residential and commercial real estate. Developed professional and cultivated new client relationships through networking groups, open houses, cold calling. Licensed real estate agent for more than two years.
+      <ul>
+        <li>Prepare documents such as representation contracts, purchase agreements, closing statements, leads and deeds.</li>
+        <li>Accompany buyers during visits to inspections of proerties, advising them on the suitability and value of the homes they are vising based on current market conditions.</li>
+        <li>Advise sellers on how to make homes more appealing to potential buyers increasing average selling prices.</li>
+        <li>Compared properties with similar properties that had recently sold to determine competitive market prices.</li>
+        <li>Interviewed clients to determine what kinds of properties they were seeking and generated lists meeting thoes requirements from availible properties.</li>
+        <li>Interviewed clients to determine their qualifications of making large purchase.</li>
+      </ul>
 
   - experience:
     role: "Night Manager and Service Representitive"
