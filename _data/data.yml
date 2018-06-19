@@ -215,7 +215,6 @@ experiences:
         <li>Developed a gateway wrapper to handle multiple API endpoints.</li>
         <li>Developed JSON RESTfull API service for new mobile apps (IOs/Android), including OAuth, etc (Node, express, socketIO, laravel, and codeigniter).</li>
         <li>Used Axios, AJAX, JSON with jQuery for request data and response processing.</li>
-        <li>Used Axios, AJAX, JSON with jQuery for request data and response processing.</li>
         <li>Created a RESTful API endpoints using Laravel, Codeigniter, and Express (NodeJS)</li>
         <li>Implemented payment systems using Stripe, Pay Pal Pro</li>
         <li>Created custom inhouse packages for Laravel</li>
