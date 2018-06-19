@@ -198,9 +198,14 @@ experiences:
       
       <ul>
         <li>Developed PHP applications from scratch. Used Codeigniter, and Laravel to deploy applications for learning software, and enterprise resource management software.</li>
-        <li>Managed and maintained LAMP and LEMP stack software for multiple clients.
+        <li>Managed and maintained LAMP and LEMP stack software for multiple clients.</li>
         <li>Deployed Laravel, and MEAN Stacks on AWS, and Google Cloud servers.</li>
-        <li>T</li>
+        <li>Developed a paymeny gateway module for quickly deploying e-commerce applications in PHP using the Laravel, Satis, and GitLab stack.</li>
+        <li>Created a RESTful API endpoints using Laravel, Codeigniter, and Express (NodeJS)</li>
+        <li>Implemented payment systems using Stripe, Pay Pal Pro</li>
+        <li>Created custom inhouse packages for Laravel</li>
+        <li>Served as backend lead developer on a creative content team.</li>
+        <li>Developed </li>
       </ul>
 
   - experience:
@@ -261,12 +266,14 @@ experiences:
     company: 'Afghan National Army'
     details: >
       Predict future gang, organized crime, or terrorist activity, using analyses of intelligence data.
-      <li>Study activities relating to narcotics, money laundering, gangs, auto theft rings, terrorism, or other national security threats.</li>
-      <li>Establish criminal profiles to aid in connecting criminal organizations with their members.</li>
-      <li>Evaluate records of communications, such as telephone calls, to plot activity and determine the size and location of criminal groups and members.</li>
-      <li>Gather and evaluate information, using tools such as aerial photographs, radar equipment, or sensitive radio equipment.</li>
-      <li>Gather intelligence information by field observation, confidential information sources, or public records.</li>
-      <li>Link or chart suspects to criminal organizations or events to determine activities and interrelationships. </li>
+      <ul>
+        <li>Study activities relating to narcotics, money laundering, gangs, auto theft rings, terrorism, or other national security threats.</li>
+        <li>Establish criminal profiles to aid in connecting criminal organizations with their members.</li>
+        <li>Evaluate records of communications, such as telephone calls, to plot activity and determine the size and location of criminal groups and members.</li>
+        <li>Gather and evaluate information, using tools such as aerial photographs, radar equipment, or sensitive radio equipment.</li>
+        <li>Gather intelligence information by field observation, confidential information sources, or public records.</li>
+        <li>Link or chart suspects to criminal organizations or events to determine activities and interrelationships. </li>
+      </ul>
 
   - experience:
     role: "United States Marine Corps"
