@@ -81,7 +81,7 @@ studies:
 
 projects:
     title: Projects
-    intro: "Here is a list of the current projects I am working on. Most of these projects were created useing Laravel and Codeigniter."
+    intro: "Here is a list of the current projects I am working on. Most of these projects were created using Laravel and Codeigniter."
     
     projects:
       - project:
