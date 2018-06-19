@@ -148,7 +148,10 @@ skills:
           name: Laravel
           level: 100%
         - skill:
-          name: MySQL, MongoDB, PostreSQL, & CouchDB
+          name: MySQL, & PostreSQL
+          level: 100%
+        - skill:
+          name: MongoDB, & CouchDB
           level: 100%
         - skill:
           name: Django
@@ -169,22 +172,22 @@ skills:
           name: Photoshop & Illustrator
           level: 80%
         - skill:
-          name: 3DS Max, Maya, & Blender
+          name: 3DS Max
           level: 90%
         - skill:
-          name: Unity3D, Unreal Engine
+          name: Unity3D, & Unreal Engine
           level: 80%
         - skill:
-          name: Docker & Vagrant
+          name: Docker, & Vagrant
           level: 80%
         - skill:
-          name: Git & SVN
+          name: Git, & SVN
           level: 100%
         - skill:
-          name: Private GitLab, & Bitbucket Deployment
+          name: GitLab, & Bitbucket
           level: 100%
         - skill:
-          name: Unix Based OS, & Windows
+          name: Unix, & Windows
           level: 100% 
 experiences:
   - experience:
