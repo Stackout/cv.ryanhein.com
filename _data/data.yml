@@ -130,8 +130,14 @@ skills:
           name: PHP
           level: 100%
         - skill:
-          name: C#, C++, C, (.NET)
-          level: 80%
+          name: C#, C++, C
+          level: 90%
+        - skill:
+          name: .NET
+          level: 90%
+        - skill:
+          name: Java
+          level: 90%
         - skill:
           name: Python
           level: 80%
@@ -145,7 +151,7 @@ skills:
           name: MySQL, MongoDB, PostreSQL, & CouchDB
           level: 100%
         - skill:
-          name: Python & Django
+          name: Django
           level: 80%
         - skill:
           name: Javascript & jQuery
