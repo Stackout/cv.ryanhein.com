@@ -81,7 +81,7 @@ studies:
 
 projects:
     title: Projects
-    intro: "Here is a list of some of the projects I have worked on. Most of these projects were created useiing Laravel and Codeigniter."
+    intro: "Here is a list of the current projects I am working on. Most of these projects were created using Laravel and Codeigniter."
     
     projects:
       - project:
@@ -131,27 +131,36 @@ skills:
           level: 100%
         - skill:
           name: C#, C++, C
+          level: 90%
+        - skill:
+          name: .NET
+          level: 90%
+        - skill:
+          name: Java
+          level: 90%
+        - skill:
+          name: Python
           level: 80%
         - skill:
           name: Codeigniter
           level: 100%
         - skill:
           name: Laravel
-          level: 98%
-        - skill:
-          name: MySQL
           level: 100%
         - skill:
-          name: MongoDB
+          name: MySQL, & PostreSQL
           level: 100%
         - skill:
-          name: Python & Django
+          name: MongoDB, & CouchDB
+          level: 100%
+        - skill:
+          name: Django
           level: 80%
         - skill:
           name: Javascript & jQuery
           level: 98%
         - skill:
-          name: Angular
+          name: Angular & VueJS
           level: 98%
         - skill:
           name: HTML5 & CSS
@@ -166,15 +175,20 @@ skills:
           name: 3DS Max
           level: 90%
         - skill:
-          name: Unity3D
+          name: Unity3D, & Unreal Engine
           level: 80%
         - skill:
-          name: Docker & Vagrant
+          name: Docker, & Vagrant
           level: 80%
         - skill:
-          name: Git & SVN
+          name: Git, & SVN
           level: 100%
-
+        - skill:
+          name: GitLab, & Bitbucket
+          level: 100%
+        - skill:
+          name: Unix, & Windows
+          level: 100% 
 experiences:
   - experience:
     role: "Full Stack Developer"
