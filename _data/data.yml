@@ -52,7 +52,7 @@ sidebar:
 career-profile: 
     title: Career Profile
     text: >
-      As a developer, I have more than 14 years experience as a full stack developer, and software engineer. Here are some of my qualifications working in the oindustry. I have worked with just about every piece of software, and language in the market. I've created applications using different frameworks like Raknet, Codeigniter, Laravel, Unity3D, Jekyll, and a plethora of other frameworks. 
+      As a developer, I have more than 14 years experience as a full stack developer, and software engineer. Here are some of my qualifications working in the oindustry. I have worked with just about every piece of software, and language in the market. I've created applications using different frameworks like Raknet (C++), Codeigniter (PHP), Laravel (PHP), Unity3D (C# and Java), Jekyll (Ruby), and a plethora of other frameworks. 
       <ul>
         <li>Ability to work in unusual, loud, and disruptive environments.</li>
         <li>Ability to communicate technical concepts to teams with varying degrees of techinical experience.</li>
@@ -60,6 +60,8 @@ career-profile:
         <li>Strong team player, makes a valuable contribution to team objectives.</li>
         <li>14 years software development experience.</li>
         <li>14 years experience in RDMS like MySQL, PostgreSQL</li>
+        <li>12 years experience with the German Language</li>
+        <li>8 years experience with the Persian Language</li>
         <li>5+ years experience in Non-RDMS like MongoDB, and CouchDB.</li>
         <li>5+ years experience in RESTful API Integration for Mobile Phone Apps, Video Games and SPA Websites.</li>
       </ul>
