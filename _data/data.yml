@@ -195,11 +195,12 @@ experiences:
     time: 'May 2004 - Current'
     company: 'Heimech Studios'
     details: >
+      
       <ul>
-      <li>Developed PHP applications from scratch. Used Codeigniter, and Laravel to deploy applications for learning software, and enterprise resource management software.</li>
-      <li>Managed and maintained LAMP and LEMP stack software for multiple clients.
-      <li>Deployed Laravel, and MEAN Stacks on AWS, and Google Cloud servers.</li>
-      <li>T</li>
+        <li>Developed PHP applications from scratch. Used Codeigniter, and Laravel to deploy applications for learning software, and enterprise resource management software.</li>
+        <li>Managed and maintained LAMP and LEMP stack software for multiple clients.
+        <li>Deployed Laravel, and MEAN Stacks on AWS, and Google Cloud servers.</li>
+        <li>T</li>
       </ul>
 
   - experience:
@@ -218,7 +219,19 @@ experiences:
     role: "Intelligence Analyst"
     time: 'Feb 2008 - Feb 2013'
     company: '2nd Intelligence Batallion'
-    details: "Developed leaders, and successfully trained individuals for intelligence writing, briefing, and speaking in front of high level officers including the President of the United States. Answered phones for high-ranking officers, and executed typical office duties with efficiency. Cultivated new relationships with officers and ran a team of 20 intel marines by the rank of Corporal (E4)."
+    details: >
+      Developed leaders, and successfully trained individuals for intelligence writing, briefing, and speaking in front of high level officers including the President of the United States. Answered phones for high-ranking officers, and executed typical office duties with efficiency. Cultivated new relationships with officers and ran a team of 20 intel marines by the rank of Corporal (E4).
+      With persistent daily time shortages, was responsible for editing, assembling and delivering over 1,200 read boards throughout my deployment for key leadership, which was vital to military commanders' decisions for the battle space.
+      <li>With persistent time constraints and pressure, I assisted the watch floor in a wide array of tasks to include editing and revising intelligence articles and summaries, which contributed to the flow of intelligence from the lower to higher-level echelons.</li>
+      <li>Keep records of materials filed or removed, using logbooks or computers.</li>
+      <li>Add new material to file records or create new records as necessary.</li>
+      <li>Perform general office duties such as typing, operating office machines, and sorting mail.</li>
+      <li>Track materials removed from files to ensure that borrowed files are returned.</li>
+      <li>Sort or classify information according to guidelines, such as content, purpose, user criteria, or chronological, alphabetical, or numerical order.</li>
+      <li>Find and retrieve information from files in response to requests from authorized users.</li>
+      <li>Scan or read incoming materials to determine how and where they should be classified or filed.</li>
+      <li>Place materials into storage receptacles, such as file cabinets, boxes, bins, or drawers, according to classification and identification information.</li>
+      <li>Assign and record or stamp identification numbers or codes to index materials for filing.</li>
 
   - experience:
     role: "Foreign Military Intelligence Instructor"
