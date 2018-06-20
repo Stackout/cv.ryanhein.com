@@ -52,7 +52,7 @@ sidebar:
 career-profile: 
     title: Career Profile
     text: >
-      As a developer, I have more than 14 years experience as a full stack developer, and software engineer. Here are some of my qualifications working in the oindustry. I have worked with just about every piece of software, and language in the market. I've created applications using different frameworks like RakNet (C++), Codeigniter (PHP), Laravel (PHP), Unity3D (C# and Java), Jekyll (Ruby), and a plethora of other frameworks. 
+      As a developer, I have more than 14 years experience as a full stack developer, and software engineer. Here are some of my qualifications working in the industry. I have worked with just about every piece of software, and language in the market. I've created applications using different frameworks like RakNet (C++), Codeigniter (PHP), Laravel (PHP), Unity3D (C# and Java), Jekyll (Ruby), and a plethora of other frameworks. 
       <ul>
         <li>Strong team player, makes a valuable contribution to team objectives.</li>
         <li>14 years software development experience.</li>
@@ -253,12 +253,11 @@ experiences:
       Sales in high-end residential and commercial real estate. Developed professional and cultivated new client relationships through networking groups, open houses, cold calling. Licensed real estate agent for more than two years.
       <ul>
         <li>Prepare documents such as representation contracts, purchase agreements, closing statements, leads and deeds.</li>
-        <li>Accompany buyers during visits to inspections of proerties, advising them on the suitability and value of the homes they are vising based on current market conditions.</li>
+        <li>Accompany buyers during visits to inspections of properties, advising them on the suitability and value of the homes they are visiting based on current market conditions.</li>
         <li>Advise sellers on how to make homes more appealing to potential buyers increasing average selling prices.</li>
         <li>Compared properties with similar properties that had recently sold to determine competitive market prices.</li>
-        <li>Interviewed clients to determine what kinds of properties they were seeking and generated lists meeting thoes requirements from availible properties.</li>
-        <li>Interviewed clients to determine their qualifications of making large purchase.</li>
-        <li>Advised clients on purcahses up to $1m.</li>
+        <li>Interviewed clients to determine what kinds of properties they were seeking and generated lists meeting thoes requirements from available properties.</li>
+        <li>Interviewed clients to determine their qualifications of making a large purchase.</li>
       </ul>
 
   - experience:
@@ -270,15 +269,15 @@ experiences:
       With persistent daily time shortages, was responsible for editing, assembling and delivering over 1,200 read boards throughout my deployment for key leadership, which was vital to military commanders' decisions for the battle space.
       <ul>
         <li>With persistent time constraints and pressure, I assisted the watch floor in a wide array of tasks to include editing and revising intelligence articles and summaries, which contributed to the flow of intelligence from the lower to higher-level echelons.</li>
-        <li>Keep records of materials filed or removed, using logbooks or computers.</li>
-        <li>Add new material to file records or create new records as necessary.</li>
-        <li>Perform general office duties such as typing, operating office machines, and sorting mail.</li>
-        <li>Track materials removed from files to ensure that borrowed files are returned.</li>
-        <li>Sort or classify information according to guidelines, such as content, purpose, user criteria, or chronological, alphabetical, or numerical order.</li>
-        <li>Find and retrieve information from files in response to requests from authorized users.</li>
-        <li>Scan or read incoming materials to determine how and where they should be classified or filed.</li>
-        <li>Place materials into storage receptacles, such as file cabinets, boxes, bins, or drawers, according to classification and identification information.</li>
-        <li>Assign and record or stamp identification numbers or codes to index materials for filing.</li>
+        <li>Keept records of materials filed or removed, using logbooks or computers.</li>
+        <li>Added new material to file records and createed new records as necessary.</li>
+        <li>Performed general office duties such as typing, operating office machines, and sorting mail.</li>
+        <li>Tracked materials removed from files to ensure that borrowed files are returned.</li>
+        <li>Sorted or classified information according to guidelines, such as content, purpose, user criteria, or chronological, alphabetical, or numerical order.</li>
+        <li>Found and retrieved information from files in response to requests from authorized users.</li>
+        <li>Scanned and read incoming materials to determine how and where they should be classified or filed.</li>
+        <li>Placed materials into storage receptacles, such as file cabinets, boxes, bins, or drawers, according to classification and identification information.</li>
+        <li>Assigned and recorded or stamped identification numbers or codes to index materials for filing.</li>
       </ul>
 
   - experience:
@@ -290,15 +289,13 @@ experiences:
       <ul>
         <li>Without minimal guidance, was able to train over 80 Afghan soldiers who could perform fundamental intelligence and teamwork skills following the completion of my courses.</li>
         <li>Recognized for outstanding performance in developing Afghan Intelligence for the Afghan National Army.</li>
-        <li>Without minimal guidance, was able to train over 80 Afghan soldiers who could perform fundamental intelligence and teamwork skills following the completion of my courses.</li>
-        <li>Recognized for outstanding performance in developing Afghan Intelligence for the Afghan National Army.</li>
         <li>Follow ethical codes that protect the confidentiality of information.</li>
-        <li>Identify and resolve conflicts related to the meanings of words, concepts, practices, or behaviors.</li>
-        <li>Translate messages simultaneously or consecutively into specified languages, orally or by using hand signs, maintaining message content, context, and style as much as possible.</li>
-        <li>Check translations of technical terms and terminology to ensure that they are accurate and remain consistent throughout translation revisions.</li>
-        <li>Read written materials, such as legal documents, scientific works, or news reports, and rewrite material into specified languages.</li>
-        <li>Refer to reference materials, such as dictionaries, lexicons, encyclopedias, and computerized terminology banks, as needed to ensure translation accuracy.</li>
-        <li>Adapt translations to students' cognitive and grade levels, collaborating with educational team members as necessary. </li>
+        <li>Identified and resolved conflicts related to the meanings of words, concepts, practices, or behaviors.</li>
+        <li>Translated messages simultaneously or consecutively into specified languages (Persian and Dari), orally or by using hand signs, maintaining message content, context, and style as much as possible.</li>
+        <li>Checked translations of technical terms and terminology to ensure that they were accurate and remained consistent throughout translation revisions.</li>
+        <li>Read written materials, such as legal documents, scientific works, or news reports, and rewrote material into specified languages.</li>
+        <li>Referred to reference materials, such as dictionaries, lexicons, encyclopedias, and computerized terminology banks, as needed to ensure translation accuracy.</li>
+        <li>Adopted translations to students' cognitive and grade levels, collaborating with educational team members as necessary. </li>
       </ul>
 
   - experience:
@@ -308,12 +305,12 @@ experiences:
     details: >
       Predict future gang, organized crime, or terrorist activity, using analyses of intelligence data.
       <ul>
-        <li>Study activities relating to narcotics, money laundering, gangs, auto theft rings, terrorism, or other national security threats.</li>
-        <li>Establish criminal profiles to aid in connecting criminal organizations with their members.</li>
-        <li>Evaluate records of communications, such as telephone calls, to plot activity and determine the size and location of criminal groups and members.</li>
-        <li>Gather and evaluate information, using tools such as aerial photographs, radar equipment, or sensitive radio equipment.</li>
-        <li>Gather intelligence information by field observation, confidential information sources, or public records.</li>
-        <li>Link or chart suspects to criminal organizations or events to determine activities and interrelationships. </li>
+        <li>Studied activities relating to narcotics, money laundering, gangs, auto theft rings, terrorism, or other national security threats.</li>
+        <li>Established criminal profiles to aid in connecting criminal organizations with their members.</li>
+        <li>Evaluated records of communications, such as telephone calls, to plot activity and determine the size and location of criminal groups and members.</li>
+        <li>Gathered and evaluated information, using tools such as aerial photographs, radar equipment, or sensitive radio equipment.</li>
+        <li>Gathered intelligence information by field observation, confidential information sources, or public records.</li>
+        <li>Linked and charted suspects to criminal organizations or events to determine activities and interrelationships. </li>
       </ul>
 
   - experience:
