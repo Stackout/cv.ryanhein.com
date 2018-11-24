@@ -52,11 +52,11 @@ sidebar:
 career-profile: 
     title: Career Profile
     text: >
-      As a developer, I have more than 14 years experience as a full stack developer, and software engineer. Here are some of my qualifications working in the industry. I have worked with just about every piece of software, and language in the market. I've created applications using different frameworks like RakNet (C++), Codeigniter (PHP), Laravel (PHP), Unity3D (C# and Java), Jekyll (Ruby), and a plethora of other frameworks. 
+      As a developer, I have more than 15 years experience as a full stack developer, and software engineer. Here are some of my qualifications working in the industry. I have worked with just about every piece of software, and language in the market. I've created applications using different frameworks like RakNet (C++), Codeigniter (PHP), Laravel (PHP), Unity3D (C# and Java), Jekyll (Ruby), and a plethora of other frameworks. 
       <ul>
         <li>Strong team player, makes a valuable contribution to team objectives.</li>
-        <li>14 years software development experience.</li>
-        <li>14 years experience in RDMS like MySQL, PostgreSQL</li>
+        <li>15 years software development experience.</li>
+        <li>15 years experience in RDMS like MySQL, PostgreSQL</li>
         <li>12 years experience with the German Language</li>
         <li>8 years experience with the Persian Language</li>
         <li>5+ years experience in Non-RDMS like MongoDB, and CouchDB.</li>
@@ -98,6 +98,10 @@ projects:
     
     projects:
       - project:
+        title: Sightmap.com
+        link: "https://sightmap.com"
+        tagline: "SightMap Solves Your Mapping Problem. Real Estate ingenuity at it's best!"
+      - project:
         title: Proyard.com
         link: "https://proyard.com"
         tagline: "Backend enterprise resource development project for a Parker, Colorado based landscaping company."
@@ -117,6 +121,7 @@ projects:
         title: Dragonblade Laravel ERM System
         link: "https://gitlab.dragonblade.io/dragonblade"
         tagline: "An entire enterprise resource management system designed and develoepd for Dragonblade Technologies, Inc."
+
 
 # publications:
 #     title: Publications
@@ -161,6 +166,9 @@ skills:
           name: Laravel
           level: 100%
         - skill:
+          name: GraphQL
+          level: 100%
+        - skill:
           name: MySQL, & PostreSQL
           level: 100%
         - skill:
@@ -175,6 +183,9 @@ skills:
         - skill:
           name: Angular & VueJS
           level: 98%
+        - skill:
+          name: ReactJS & Redux
+          level: 100%
         - skill:
           name: HTML5 & CSS
           level: 100%
@@ -204,8 +215,19 @@ skills:
           level: 100% 
 experiences:
   - experience:
+    role: "Senior Full Stack Developer"
+    time: 'July 2018 - Current'
+    company: 'Engrain, Inc.'
+    details: >
+      <ul>
+        <li>Building enterprise real estate software to help solve specific mapping issues in Real Estate.</li>
+        <li>Using Redux to build a statefull application.</li>
+      </ul>
+
+
+  - experience:
     role: "Lead Full Stack Developer"
-    time: 'May 2004 - Current'
+    time: 'May 2004 - July 2018'
     company: 'Heimech Studios'
     details: >
       
