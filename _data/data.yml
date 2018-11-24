@@ -88,7 +88,7 @@ studies:
 
   - education:
     degree: Persian-Farsi Certification
-    university: Navy-Marine Corps Intelligence Trianing Center (NMITC)
+    university: Defense Langauge Instutite
     time: Jun 2008 - Sep 2008
     details: "Studied Persian-Farsi, cultural and middle eastern culture."
 
@@ -100,7 +100,7 @@ projects:
       - project:
         title: Sightmap.com
         link: "https://sightmap.com"
-        tagline: "SightMap Solves Your Mapping Problem. Real Estate ingenuity at it's best!"
+        tagline: "SightMap Solves Your Mapping Problem. Real Estate ingenuity at its best!"
       - project:
         title: Proyard.com
         link: "https://proyard.com"
@@ -181,6 +181,9 @@ skills:
           name: Javascript & jQuery
           level: 98%
         - skill:
+          name: Kubernetes
+          level: 50%
+        - skill:
           name: Angular & VueJS
           level: 98%
         - skill:
@@ -219,9 +222,11 @@ experiences:
     time: 'July 2018 - Current'
     company: 'Engrain, Inc.'
     details: >
+      
       <ul>
         <li>Building enterprise real estate software to help solve specific mapping issues in Real Estate.</li>
         <li>Using Redux to build a statefull application.</li>
+        <li></li>
       </ul>
 
 
