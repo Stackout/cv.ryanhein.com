@@ -190,6 +190,9 @@ skills:
           name: ReactJS & Redux
           level: 100%
         - skill:
+          name: Electron Apps
+          level: 100%
+        - skill:
           name: HTML5 & CSS
           level: 100%
         - skill:
@@ -222,7 +225,7 @@ experiences:
     time: 'July 2018 - Current'
     company: 'Engrain, Inc.'
     details: >
-      
+
       <ul>
         <li>Building enterprise real estate software to help solve specific mapping issues in Real Estate.</li>
         <li>Using Redux to build a statefull application.</li>
