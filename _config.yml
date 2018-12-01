@@ -11,6 +11,10 @@ theme_skin: # blue turquoise green berry orange ceramic
 # Tracker
 analytics: UA-125810085-4
 
+# Conversion Tracking
+conversions: AW-782371799
+conversions_sendto:  Ns3WCMb70pABENeXiPUC
+
 # Sass/SCSS
 sass:
   sass_dir: _sass

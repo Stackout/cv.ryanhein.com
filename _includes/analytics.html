@@ -14,3 +14,11 @@
   ga('create', '{{site.analytics}}', 'auto');
   ga('send', 'pageview');
 </script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{site.conversions}}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{site.conversions}}');
+  gtag('event', 'conversion', {'send_to': '{{site.conversions}}/{{site.conversions_send_to}}'});
+</script>
