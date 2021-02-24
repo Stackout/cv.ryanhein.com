@@ -32,6 +32,38 @@ sidebar:
           idiom: German
           level: Professional
 
+    software-languages:
+        - language:
+          idiom: C, C++
+          level: Professional
+        - language:
+          idiom: PHP
+          level: Professional
+        - language:
+          idiom: C#
+          level: Professional
+        - language:
+          idiom: VisualBasic
+          level: Professional
+        - language:
+          idiom: Kotlin (Java)
+          level: Professional
+        - language:
+          idiom: Java
+          level: Professional
+        - language:
+          idiom: Ruby
+          level: Professional
+        - language:
+          idiom: Rust 💕
+          level: Professional
+        - language:
+          idiom: Python
+          level: Professional
+        - language:
+          idiom: HTML, CSS, & JavaScript
+          level: Professional
+
     interests:
         - interest:
           item: Scuba Diving
