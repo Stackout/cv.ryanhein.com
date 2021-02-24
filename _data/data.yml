@@ -106,6 +106,10 @@ projects:
         link: "https://pexaproject.com"
         tagline: "Crafting beautiful solutions for the crypto world, leveling the playing field, and decentralizing your money. SaaS blockchain consulting services available."
       - project:
+        title: Pexa Coin Core
+        link: "https://github.com/pexa/core"
+        tagline: "Pexa is an experimental digital currency that enables instant payments to anyone, anywhere in the world. Pexa uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Pexa Core is the name of open source software which enables the use of this currency."
+      - project:
         title: Pexa Shop
         link: "https://pexaproject.com/shop"
         tagline: "Automated, and hands off custom merchandise shop integrated with Printful and Stripe."
