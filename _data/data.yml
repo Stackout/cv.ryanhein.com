@@ -1,22 +1,22 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
     # Site Settings
     title: "Ryan Hein's Resume"
-    url: 'http://ryanhein.com'
+    url: 'https://ryanhein.com'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
-    
+
     # Profile information
     name: Ryan Hein
-    tagline: Full Stack Developer
+    phone: (303) 656-6491
+    tagline: Software Engineer
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    
+
     # Sidebar links
     email: me@ryanhein.com
-    phone: (303) 532-9265
-    website: hein.estate #do not add http://
+    website: pexaproject.com
     linkedin: stackout
     github: stackout
     twitter: '@RyanMHein'
@@ -31,7 +31,7 @@ sidebar:
         - language:
           idiom: German
           level: Professional
-        
+
     interests:
         - interest:
           item: Scuba Diving
@@ -49,58 +49,70 @@ sidebar:
           item: Business
           link:
 
-career-profile: 
+career-profile:
     title: Career Profile
     text: >
-      As a developer, I have more than 15 years experience as a full stack developer, and software engineer. Here are some of my qualifications working in the industry. I have worked with just about every piece of software, and language in the market. I've created applications using different frameworks like RakNet (C++), Codeigniter (PHP), Laravel (PHP), Unity3D (C# and Java), Jekyll (Ruby), and a plethora of other frameworks. 
+      As a developer, I have more than 19 years experience as a full stack developer, and software engineer. Here are some of my qualifications working in the industry. I have worked with just about every piece of software, and language in the market. I've created applications using different frameworks like RakNet (C++), Codeigniter (PHP), Laravel (PHP), Unity3D (C# and Java), Jekyll (Ruby), and a plethora of other frameworks.
       <ul>
         <li>Strong team player, makes a valuable contribution to team objectives.</li>
-        <li>15 years software development experience.</li>
-        <li>15 years experience in RDMS like MySQL, PostgreSQL</li>
-        <li>12 years experience with the German Language</li>
-        <li>8 years experience with the Persian Language</li>
-        <li>5+ years experience in Non-RDMS like MongoDB, and CouchDB.</li>
-        <li>5+ years experience in RESTful API Integration for Mobile Phone Apps, Video Games and SPA Websites.</li>
+        <li>19 years software development experience.</li>
+        <li>19 years experience in RDMS like MySQL, PostgreSQL</li>
+        <li>15 years experience with the German Language</li>
+        <li>11 years experience with the Persian Language</li>
+        <li>10 years experience in Non-RDMS like MongoDB, and CouchDB.</li>
+        <li>10 years experience in RESTful API Integration for Mobile Phone Apps, Video Games and SPA Websites.</li>
         <li>Ability to work in unusual, loud, and disruptive environments.</li>
-        <li>Ability to communicate technical concepts to teams with varying degrees of techinical experience.</li>
+        <li>Ability to communicate technical concepts to teams with varying degrees of technical experience.</li>
         <li>Ability to handle multiple projects.</li>
       </ul>
 
 
-studies: 
+studies:
   - education:
     degree: AA in General Studies
     university: American Military University
     time: Nov 2008 - Nov 2009
-    details: "Degree included 100+ credits in general studies as well as the Perisan-Farsi Langauge and middle eastern studies. "
-    
+    details: "Degree included 100+ credits in general studies as well as the Persian-Farsi Language and middle eastern studies. "
+
   - education:
     degree: Corporal's Course
-    university: Non-comissioned Officer School
+    university: Non-commissioned Officer School
     time: Oct 2010 - Nov 2010
     details: "Developed leadership skills"
 
   - education:
     degree: Military Intelligence Certification
-    university: Navy-Marine Corps Intelligence Trianing Center (NMITC)
+    university: Navy-Marine Corps Intelligence Training Center (NMITC)
     time: Jun 2008 - Sep 2008
     details: "Studied military intelligence"
 
   - education:
     degree: Persian-Farsi Certification
-    university: Defense Langauge Instutite
+    university: Defense Language Institute
     time: Jun 2008 - Sep 2008
     details: "Studied Persian-Farsi, cultural and middle eastern culture."
 
 projects:
     title: Projects
-    intro: "Here is a list of the current projects I am working on. Most of these projects were created using Laravel and Codeigniter."
-    
+    intro: "Here is a list of the current projects I am working on. Most of these web projects were created using Laravel and Codeigniter. Also note, that some of these projects don't exist any more."
+
     projects:
       - project:
         title: Sightmap.com
         link: "https://sightmap.com"
         tagline: "SightMap Solves Your Mapping Problem. Real Estate ingenuity at its best!"
+      - project:
+        title: Pexa Project
+        link: "https://pexaproject.com"
+        tagline: "Crafting beautiful solutions for the crypto world, leveling the playing field, and decentralizing your money. SaaS blockchain consulting services available."
+      - project:
+        title: Pexa Shop
+        link: "https://pexaproject.com/shop"
+        tagline: "Automated, and hands off custom merchandise shop integrated with Printful and Stripe."
+      - project:
+        title: Cloud Proxy Stratum
+        link: "https://github.com/Stackout/cloud-stratum-proxy"
+        tagline: "A small application to add SNI to the insecure mining protocols. This tool adds SNI to all mining clients without SNI."
       - project:
         title: Proyard.com
         link: "https://proyard.com"
@@ -112,7 +124,7 @@ projects:
       - project:
         title: Liberty Day Institute Classroom
         link: "https://classroom.libertyday.org"
-        tagline: "A beautifully crafted custom classroom and learning resource designed and developed with love for LiberyDay."
+        tagline: "A beautifully crafted custom classroom and learning resource designed and developed with love for LibertyDay."
       - project:
         title: Laravel Payment Gateway
         link: "https://github.com/Stackout/Payment-Gateways"
@@ -120,26 +132,7 @@ projects:
       - project:
         title: Dragonblade Laravel ERM System
         link: "https://gitlab.dragonblade.io/dragonblade"
-        tagline: "An entire enterprise resource management system designed and develoepd for Dragonblade Technologies, Inc."
-
-
-# publications:
-#     title: Publications
-#     intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-#     publications:
-#       - paper:
-#         title: The Art of Computer Programming
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
-#       - paper:
-#         title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#       - paper:
-#         title: A syntax directed compiler for Algol 60
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "An entire enterprise resource management system designed and developed for Dragonblade Technologies, Inc."
 
 skills:
     title: Skills &amp; Proficiency
@@ -149,13 +142,16 @@ skills:
           level: 100%
         - skill:
           name: C#, C++, C
-          level: 90%
+          level: 100%
+        - skill:
+          name: RustLang
+          level: 100%
         - skill:
           name: .NET
-          level: 90%
+          level: 100%
         - skill:
           name: Java
-          level: 90%
+          level: 100%
         - skill:
           name: Python
           level: 80%
@@ -176,13 +172,13 @@ skills:
           level: 100%
         - skill:
           name: Django
-          level: 80%
+          level: 98%
         - skill:
           name: Javascript & jQuery
           level: 98%
         - skill:
           name: Kubernetes
-          level: 50%
+          level: 98%
         - skill:
           name: Angular & VueJS
           level: 98%
@@ -197,7 +193,7 @@ skills:
           level: 100%
         - skill:
           name: Ruby on Rails
-          level: 85%
+          level: 98%
         - skill:
           name: Photoshop & Illustrator
           level: 80%
@@ -208,27 +204,42 @@ skills:
           name: Unity3D, & Unreal Engine
           level: 80%
         - skill:
-          name: Docker, & Vagrant
+          name: Docker
           level: 80%
         - skill:
           name: Git, & SVN
           level: 100%
         - skill:
-          name: GitLab, & Bitbucket
+          name: GitLab, Bitbucket & GitHub
           level: 100%
         - skill:
-          name: Unix, & Windows
-          level: 100% 
+          name: Unix & Windows
+          level: 100%
 experiences:
   - experience:
-    role: "Senior Full Stack Developer"
+    role: "Lead Software Engineer"
+    time: 'April 2019 - Current'
+    company: 'Pexa, Inc.'
+    details: >
+
+      <ul>
+        <li>Building enterprise cloud based crypto software, designed to solve how cloud mining scales.</li>
+        <li>Invented a new cloud deployment platform that deploys stratum servers on the fly, effectively democratizing the crypto mining pool concept.</li>
+        <li>Maintain a monolith codebase written in Rust, PHP, C++, and Node.</li>
+        <li>Currently working on a crypto based video game.</li>
+        <li>Created the currency "Pexa Coin".</li>
+        <li>Building a scalable MMORPG server for Pexa's upcoming video game.</li>
+      </ul>
+
+  - experience:
+    role: "Lead Software Engineer"
     time: 'July 2018 - Current'
     company: 'Engrain, Inc.'
     details: >
 
       <ul>
         <li>Building enterprise real estate software to help solve specific mapping issues in Real Estate.</li>
-        <li>Using Redux to build a statefull application.</li>
+        <li>Using Redux to build a stateful application.</li>
         <li>Help maintain a really large codebase on backend and frontend.</li>
         <li>Developed a plethora of new features to help build the company image.</li>
       </ul>
@@ -239,7 +250,7 @@ experiences:
     time: 'May 2004 - July 2018'
     company: 'Heimech Studios'
     details: >
-      
+
       <ul>
         <li>Developed PHP applications from scratch. Used Codeigniter, and Laravel to deploy applications for learning software, and enterprise resource management software.</li>
         <li>Managed and maintained LAMP and LEMP stack software for multiple clients.</li>
@@ -250,7 +261,7 @@ experiences:
         <li>Used Axios, AJAX, JSON with jQuery for request data and response processing.</li>
         <li>Created a RESTful API endpoints using Laravel, Codeigniter, and Express (NodeJS)</li>
         <li>Implemented payment systems using Stripe, Pay Pal Pro</li>
-        <li>Created custom inhouse packages for Laravel</li>
+        <li>Created custom in house packages for Laravel</li>
         <li>Created client relationships to increase the gross sales for the company.</li>
         <li>Served as backend lead developer on a creative content team.</li>
         <li>Troubleshooted issues affecting production, stage, and development environments as requested.</li>
@@ -265,9 +276,9 @@ experiences:
     role: "Lead Software Engineer"
     time: 'May 2004 - Current'
     company: 'Heimech Studios'
-    details: >      
+    details: >
       <ul>
-        <li>Builds scaleable applications using Java, C#, C++, and C.</li>
+        <li>Builds scalable applications using Java, C#, C++, and C.</li>
         <li>Created multiple server endpoints in Java, and C++ for video games.</li>
         <li>Established the ability to analyze business requirements for clients.</li>
         <li>Promoting collaboration through activities such as design reviews, and software/programming mentorship.</li>
@@ -278,7 +289,7 @@ experiences:
 
   - experience:
     role: "Associate Broker"
-    time: 'Oct 2016 - Current'
+    time: 'Oct 2016 - Dec 2019'
     company: 'Your Castle Realty'
     details: >
       Sales in high-end residential and commercial real estate. Developed professional and cultivated new client relationships through networking groups, open houses, cold calling. Licensed real estate agent for more than two years.
@@ -287,21 +298,21 @@ experiences:
         <li>Accompany buyers during visits to inspections of properties, advising them on the suitability and value of the homes they are visiting based on current market conditions.</li>
         <li>Advise sellers on how to make homes more appealing to potential buyers increasing average selling prices.</li>
         <li>Compared properties with similar properties that had recently sold to determine competitive market prices.</li>
-        <li>Interviewed clients to determine what kinds of properties they were seeking and generated lists meeting thoes requirements from available properties.</li>
+        <li>Interviewed clients to determine what kinds of properties they were seeking and generated lists meeting those requirements from available properties.</li>
         <li>Interviewed clients to determine their qualifications of making a large purchase.</li>
       </ul>
 
   - experience:
     role: "Intelligence Analyst"
     time: 'Feb 2008 - Feb 2013'
-    company: '2nd Intelligence Batallion'
+    company: '2nd Intelligence Battalion'
     details: >
       Developed leaders, and successfully trained individuals for intelligence writing, briefing, and speaking in front of high level officers including the President of the United States. Answered phones for high-ranking officers, and executed typical office duties with efficiency. Cultivated new relationships with officers and ran a team of 20 intel marines by the rank of Corporal (E4).
       With persistent daily time shortages, was responsible for editing, assembling and delivering over 1,200 read boards throughout my deployment for key leadership, which was vital to military commanders' decisions for the battle space.
       <ul>
         <li>With persistent time constraints and pressure, I assisted the watch floor in a wide array of tasks to include editing and revising intelligence articles and summaries, which contributed to the flow of intelligence from the lower to higher-level echelons.</li>
-        <li>Keept records of materials filed or removed, using logbooks or computers.</li>
-        <li>Added new material to file records and createed new records as necessary.</li>
+        <li>Keep records of materials filed or removed, using logbooks or computers.</li>
+        <li>Added new material to file records and created new records as necessary.</li>
         <li>Performed general office duties such as typing, operating office machines, and sorting mail.</li>
         <li>Tracked materials removed from files to ensure that borrowed files are returned.</li>
         <li>Sorted or classified information according to guidelines, such as content, purpose, user criteria, or chronological, alphabetical, or numerical order.</li>
@@ -346,9 +357,9 @@ experiences:
 
   - experience:
     role: "United States Marine Corps"
-    time: 'May 2008 - June 2008'
+    time: 'Feb 2008 - Feb 2013'
     company: 'United States Marine Corps'
     details: "Achieved the rank of Sergeant (E-5) by year 5 in the Marine Corps."
 
-footer: 
+footer:
     text: '&copy; Copyright 2018 by <a href=https://ryanhein.com target="_blank">RyanHein.com</a>'
