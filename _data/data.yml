@@ -187,7 +187,13 @@ skills:
           name: Angular & VueJS
           level: 98%
         - skill:
-          name: ReactJS & Redux
+          name: ReactJS
+          level: 100%
+        - skill:
+          name: NextJS
+          level: 100%
+        - skill:
+          name: Redux & Flux
           level: 100%
         - skill:
           name: Electron Apps
